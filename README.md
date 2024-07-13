@@ -1,4 +1,4 @@
 # Matthew
 
 
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=maatthw&theme=radical&show_icons=true)
+[![maatthw's github streak](https://github-readme-streak-stats.herokuapp.com/?user=maatthw&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
